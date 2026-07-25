@@ -1,14 +1,13 @@
 
 Hi! This is Helen, computer science major at Princeton. 
 
+website: https://ilovehhhyn.github.io/helenhui/
 
 evaluation benchmark for memories: https://github.com/ilovehhhyn/Memories-eval/tree/main 
 
-read my poems: https://ilovehhhyn.github.io/helenhui/
+word catcher: ilovehhhyn.github.io/theresNoEnglishWordForXingFu/
 
-get inspo for poems: ilovehhhyn.github.io/theresNoEnglishWordForXingFu/
-
-rank you favorite **public** waters: guulp.vercel.app
+water ranker: guulp.vercel.app
 
 
 
