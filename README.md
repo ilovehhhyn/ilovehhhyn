@@ -3,12 +3,6 @@ Hi! This is Helen, computer science major at Princeton.
 
 website: https://ilovehhhyn.github.io/helenhui/
 
-evaluation benchmark for memories: https://github.com/ilovehhhyn/Memories-eval/tree/main 
-
-word catcher: ilovehhhyn.github.io/theresNoEnglishWordForXingFu/
-
-water ranker: guulp.vercel.app
-
 
 
 <!--
